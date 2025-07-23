@@ -49,6 +49,7 @@ const AllRooms = () => {
         "Price High to Low",
         "Newest First"
     ];
+    
 
   return (
     <div className='flex flex-col-reverse lg:flex-row items-start
